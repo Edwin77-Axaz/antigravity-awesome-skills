@@ -821,6 +821,14 @@ We officially thank the following contributors for their help in making this rep
 - [@vanrensbird](https://github.com/vanrensbird)
 - [@walidboulanouar](https://github.com/walidboulanouar)
 - [@waynehamadi](https://github.com/waynehamadi)
+- [@8144225309](https://github.com/8144225309)
+- [@AshenJyy](https://github.com/AshenJyy)
+- [@estevecastells](https://github.com/estevecastells)
+- [@jwcastillo](https://github.com/jwcastillo)
+- [@Kadajett](https://github.com/Kadajett)
+- [@Pazificateur69](https://github.com/Pazificateur69)
+- [@Reak-Z](https://github.com/Reak-Z)
+- [@zealous1](https://github.com/zealous1)
 
 ## Star History
 
