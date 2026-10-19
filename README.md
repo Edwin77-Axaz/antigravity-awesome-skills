@@ -845,6 +845,10 @@ We officially thank the following contributors for their help in making this rep
 - [@tuantqse90](https://github.com/tuantqse90)
 - [@UmarSiddiqui](https://github.com/UmarSiddiqui)
 - [@yumaheymans](https://github.com/yumaheymans)
+- [@dbhurley](https://github.com/dbhurley)
+- [@ilya-bogin-keenable](https://github.com/ilya-bogin-keenable)
+- [@marina-aronchik](https://github.com/marina-aronchik)
+- [@wu736139669](https://github.com/wu736139669)
 
 ## Star History
 
