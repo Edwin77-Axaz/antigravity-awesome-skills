@@ -863,7 +863,6 @@ We officially thank the following contributors for their help in making this rep
 - [@polnikale](https://github.com/polnikale)
 - [@santifer](https://github.com/santifer)
 - [@zeeshangulzar](https://github.com/zeeshangulzar)
-- [@alexadams6ix](https://github.com/alexadams6ix)
 - [@LoganOneal](https://github.com/LoganOneal)
 - [@luchtan-GIT](https://github.com/luchtan-GIT)
 - [@nachoiacovino](https://github.com/nachoiacovino)
